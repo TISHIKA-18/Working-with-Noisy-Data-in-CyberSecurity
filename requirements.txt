@@ -1,0 +1,7 @@
+### This file lists the required Python packages for the project.
+numpy
+pandas
+scikit-learn
+xgboost
+imblearn
+jupyter
